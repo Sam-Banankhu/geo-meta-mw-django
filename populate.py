@@ -34,5 +34,4 @@ def populate_data():
 
             city.save()
 
-# Call the function to populate the data
 populate_data()
